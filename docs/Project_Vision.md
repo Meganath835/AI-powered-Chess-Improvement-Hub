@@ -2,13 +2,12 @@
 
 **Project Name:** Checkmate AI *(Working Title)*
 
-**Version:** 1.0
+# Project Version Control History
 
-**Author:** Meganath Saravanan
-
-**Status:** Draft
-
-**Last Updated:** June 25, 2026
+| Version | Date | Author | Description of Changes |
+| :--- | :--- | :--- | :--- |
+| **1.0** | 2026-06-25 | Meganath Saravanan | Initial draft and Project Vision description. |
+| **1.1** | 2026-06-29 | Meganath Saravanan | Added Project Version Table. |
 
 ---
 
