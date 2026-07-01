@@ -34,3 +34,24 @@ None.
 * Add PRD Part 1.
 * Review both documents.
 * Create the first Git commit.
+
+## Session 02
+
+**Date:** 1 July 2026
+
+### Completed
+
+- Standardized project documentation.
+- Approved Project Vision.
+- Created the Ideas Parking Lot.
+- Defined the idea management process.
+
+### Key Decisions
+
+- Future ideas will be stored separately from active requirements.
+- Features will only move into the PRD after evaluation.
+
+### Next Session
+
+Review PRD Part 1.
+Begin PRD Part 2.

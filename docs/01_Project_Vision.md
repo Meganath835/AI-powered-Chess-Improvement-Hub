@@ -12,7 +12,7 @@
 | Reviewer | Meganath Saravanan |
 | Approval | Approved |
 | Created | 25 June 2026 |
-| Last Updated | 29 June 2026 |
+| Last Updated | 1 July 2026 |
 
 ---
 
@@ -22,7 +22,7 @@
 |---------|------|--------|---------|
 | 0.1 | 25 June 2026 | Meganath Saravanan | Initial draft created. |
 | 0.2 | 29 June 2026 | Meganath Saravanan | Added project metadata and refined document structure. |
-| 1.0 | 29 June 2026 | Meganath Saravanan | Reviewed and approved as the baseline Project Vision. |
+| 1.0 | 1 July 2026 | Meganath Saravanan | Reviewed and approved as the baseline Project Vision. |
 
 --- |
 

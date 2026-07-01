@@ -46,12 +46,13 @@ Complete the Project Vision and Product Requirements Document (PRD).
 * [ ] AI Architecture
 * [ ] UI/UX Design Guide
 * [ ] Wireframes
+* [x] Ideas Parking Lot
 
 ---
 
 ## Overall Progress
 
-Documentation Phase: **15%**
+Documentation Phase: **18%**
 
 Overall Project: **2%**
 

@@ -21,3 +21,11 @@ All notable changes to this project will be documented in this file.
 * Finalize Project Vision.
 * Complete Product Requirements Document (PRD).
 * Begin Software Requirements Specification (SRS).
+
+## [v0.1.1] - 1 July 2026
+
+### Added
+
+- Created `11_Ideas_Parking_Lot.md`.
+- Added a structured repository for future product ideas.
+- Defined the idea evaluation process.
