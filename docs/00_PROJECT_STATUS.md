@@ -51,7 +51,7 @@ Complete the Project Vision and Product Requirements Document (PRD).
 
 ## Overall Progress
 
-Documentation Phase: **10%**
+Documentation Phase: **15%**
 
 Overall Project: **2%**
 

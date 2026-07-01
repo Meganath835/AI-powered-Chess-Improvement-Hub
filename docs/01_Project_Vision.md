@@ -1,13 +1,30 @@
 # Project Vision
 
-**Project Name:** Checkmate AI *(Working Title)*
+# Project Vision
 
-# Project Version Control History
+| Field | Value |
+|-------|-------|
+| Project Name | Checkmate AI *(Working Title)* |
+| Document | Project Vision |
+| Document Version | 1.0 |
+| Status | Approved |
+| Author | Meganath Saravanan |
+| Reviewer | Meganath Saravanan |
+| Approval | Approved |
+| Created | 25 June 2026 |
+| Last Updated | 29 June 2026 |
 
-| Version | Date | Author | Description of Changes |
-| :--- | :--- | :--- | :--- |
-| **1.0** | 2026-06-25 | Meganath Saravanan | Initial draft and Project Vision description. |
-| **1.1** | 2026-06-29 | Meganath Saravanan | Added Project Version Table. |
+---
+
+## Revision History
+
+| Version | Date | Author | Changes |
+|---------|------|--------|---------|
+| 0.1 | 25 June 2026 | Meganath Saravanan | Initial draft created. |
+| 0.2 | 29 June 2026 | Meganath Saravanan | Added project metadata and refined document structure. |
+| 1.0 | 29 June 2026 | Meganath Saravanan | Reviewed and approved as the baseline Project Vision. |
+
+--- |
 
 ---
 
