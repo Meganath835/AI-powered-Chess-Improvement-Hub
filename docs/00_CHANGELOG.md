@@ -29,3 +29,11 @@ All notable changes to this project will be documented in this file.
 - Created `11_Ideas_Parking_Lot.md`.
 - Added a structured repository for future product ideas.
 - Defined the idea evaluation process.
+
+## [v0.2.0] - 02 July 2026
+Added
+* Completed the Product Requirements Document.
+* Defined user roles, user journeys, use cases, and product flow.
+* Defined Version 1.0 feature set.
+* Added functional and non-functional requirements.
+* Defined project scope, risks, assumptions, constraints, and future enhancements.

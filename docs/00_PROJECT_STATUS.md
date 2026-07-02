@@ -3,11 +3,11 @@
 | Field             | Value                                          |
 | ----------------- | ---------------------------------------------- |
 | Project Name      | Checkmate AI *(Working Title)*                 |
-| Project Version   | v0.1.0                                         |
+| Project Version   | v0.2.0                                         |
 | Current Phase     | Documentation                                  |
 | Current Milestone | Milestone 1 – Product Planning & Documentation |
 | Status            | In Progress                                    |
-| Last Updated      | 29 June 2026                                   |
+| Last Updated      | 02 July 2026                                   |
 
 ---
 
@@ -19,11 +19,13 @@ Establish the complete project foundation by creating and organizing all documen
 
 ## Current Task
 
-Complete the Project Vision and Product Requirements Document (PRD).
+Documentation
 
 ---
 
 ## Milestone Progress
+
+Milestone 1 – Product Planning & Documentation
 
 ### Repository Setup
 
@@ -36,8 +38,8 @@ Complete the Project Vision and Product Requirements Document (PRD).
 
 ### Documentation Progress
 
-* [ ] Project Vision
-* [ ] Product Requirements Document
+* [x] Project Vision
+* [x] Product Requirements Document
 * [ ] Software Requirements Specification
 * [ ] Development Roadmap
 * [ ] System Architecture
@@ -52,7 +54,7 @@ Complete the Project Vision and Product Requirements Document (PRD).
 
 ## Overall Progress
 
-Documentation Phase: **18%**
+Documentation Phase: **35%**
 
 Overall Project: **2%**
 
