@@ -78,3 +78,28 @@ Complete the Product Requirements Document.
 ### Next Session
 
 * Begin the Software Requirements Specification (SRS)
+
+## Session 04
+
+**Date:** 21 July 2026
+
+### Objective
+
+Create the visual language of Checkmate AI.
+
+### Completed:
+
+- Built reusable design system
+- Created internal /design page
+- Finalized color palette
+- Finalized typography
+- Created reusable UI components
+
+### Challenges:
+
+- Organizing reusable components
+- Maintaining consistent spacing
+
+### Outcome:
+
+The frontend now has a stable design foundation for future pages.
